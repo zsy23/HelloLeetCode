@@ -32,5 +32,8 @@
     <ClInclude Include="Util\Util.h">
       <Filter>Util</Filter>
     </ClInclude>
+    <ClInclude Include="TwoSum.h">
+      <Filter>Q1_TwoSum</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
