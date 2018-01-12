@@ -114,6 +114,8 @@
     <ClCompile Include="Util\Util.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AddTwoNumbers.h" />
+    <ClInclude Include="LengthOfLongestSubstring.h" />
     <ClInclude Include="TwoSum.h" />
     <ClInclude Include="Util\Util.h" />
   </ItemGroup>

@@ -19,6 +19,12 @@
     <Filter Include="Util">
       <UniqueIdentifier>{e6eff974-976d-49cb-85c7-87fd65ea3e59}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Q2_Add_Two_Numbers">
+      <UniqueIdentifier>{69edae63-9db4-47ae-80c8-86a81f1e24d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3_Longest_Substring_Without_Repeating_Characters">
+      <UniqueIdentifier>{d9079b6c-0020-4640-9c8e-87410b1062e9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -34,6 +40,12 @@
     </ClInclude>
     <ClInclude Include="TwoSum.h">
       <Filter>Q1_TwoSum</Filter>
+    </ClInclude>
+    <ClInclude Include="AddTwoNumbers.h">
+      <Filter>Q2_Add_Two_Numbers</Filter>
+    </ClInclude>
+    <ClInclude Include="LengthOfLongestSubstring.h">
+      <Filter>Q3_Longest_Substring_Without_Repeating_Characters</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
