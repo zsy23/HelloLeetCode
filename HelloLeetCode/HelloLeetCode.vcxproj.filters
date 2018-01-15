@@ -28,6 +28,9 @@
     <Filter Include="Q4_Median_of_Two_Sorted_Arrays">
       <UniqueIdentifier>{11112ea8-7273-4179-9ed9-ed9de9651416}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Q5_Longest_Palindromic_Substring">
+      <UniqueIdentifier>{b5aeeb3a-a254-417a-9e7f-27cd6f5b11b1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -52,6 +55,9 @@
     </ClInclude>
     <ClInclude Include="FindMedianSortedArrays.h">
       <Filter>Q4_Median_of_Two_Sorted_Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestPalindrome.h">
+      <Filter>Q5_Longest_Palindromic_Substring</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

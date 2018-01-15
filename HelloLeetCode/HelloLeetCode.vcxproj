@@ -117,6 +117,7 @@
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="FindMedianSortedArrays.h" />
     <ClInclude Include="LengthOfLongestSubstring.h" />
+    <ClInclude Include="LongestPalindrome.h" />
     <ClInclude Include="TwoSum.h" />
     <ClInclude Include="Util\Util.h" />
   </ItemGroup>
