@@ -120,6 +120,7 @@
     <ClInclude Include="LongestPalindrome.h" />
     <ClInclude Include="TwoSum.h" />
     <ClInclude Include="Util\Util.h" />
+    <ClInclude Include="ZigZagConversion.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

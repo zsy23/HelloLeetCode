@@ -31,6 +31,9 @@
     <Filter Include="Q5_Longest_Palindromic_Substring">
       <UniqueIdentifier>{b5aeeb3a-a254-417a-9e7f-27cd6f5b11b1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Q6_ZigZag_Conversion">
+      <UniqueIdentifier>{9156df69-a1ab-4937-8d79-458c1079af19}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -58,6 +61,9 @@
     </ClInclude>
     <ClInclude Include="LongestPalindrome.h">
       <Filter>Q5_Longest_Palindromic_Substring</Filter>
+    </ClInclude>
+    <ClInclude Include="ZigZagConversion.h">
+      <Filter>Q6_ZigZag_Conversion</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

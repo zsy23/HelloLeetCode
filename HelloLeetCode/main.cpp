@@ -1,10 +1,10 @@
 #include "Util/Util.h"
-#include "LongestPalindrome.h"
+#include "ZigZagConversion.h"
 
 #include <iostream>
 
 int main(int argc, char *arg[]) {
-	printf("%s\n", longestPalindrome("babad").c_str());
+	printf("%s\n", zigzagConversion("PAYPALISHIRING", 3).c_str());
 
 	system("pause");
 
