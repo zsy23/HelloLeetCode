@@ -12,7 +12,7 @@ int lengthOfLongestSubstring(std::string s) {
 	for (; cur < n; ++cur) {
 		c = s[cur];
 
-		if (table.find(c) != table.end() && table[c] >= start) {
+		if (table.find(c) != table.end() && table[c] >= start/* !!! */) {
 			tmp = cur - start;
 			if (len < tmp)
 				len = tmp;
