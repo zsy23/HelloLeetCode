@@ -34,6 +34,9 @@
     <Filter Include="Q6_ZigZag_Conversion">
       <UniqueIdentifier>{9156df69-a1ab-4937-8d79-458c1079af19}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Q7_Reverse_Integer">
+      <UniqueIdentifier>{c140e63e-0941-4bdc-91bd-490315f506dd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -64,6 +67,9 @@
     </ClInclude>
     <ClInclude Include="ZigZagConversion.h">
       <Filter>Q6_ZigZag_Conversion</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseInteger.h">
+      <Filter>Q7_Reverse_Integer</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
