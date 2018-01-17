@@ -43,6 +43,9 @@
     <Filter Include="Q9_Palindrome_Number">
       <UniqueIdentifier>{6dac911b-5185-4188-8584-51eee2538e81}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Q10_Regular_Expression_Matching">
+      <UniqueIdentifier>{859a0103-6cc7-4560-bc00-4ac6ee72fbc6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -80,7 +83,10 @@
     <ClInclude Include="String2Integer.h">
       <Filter>Q8_String_to_Integer</Filter>
     </ClInclude>
-    <ClInclude Include="Palindrome_Number.h">
+    <ClInclude Include="RegularExpressionMatching.h">
+      <Filter>Q10_Regular_Expression_Matching</Filter>
+    </ClInclude>
+    <ClInclude Include="PalindromeNumber.h">
       <Filter>Q9_Palindrome_Number</Filter>
     </ClInclude>
   </ItemGroup>
