@@ -1,10 +1,9 @@
 #include "Util/Util.h"
-#include "ZigZagConversion.h"
+#include "Palindrome_Number.h"
 
 #include <iostream>
 
 int main(int argc, char *arg[]) {
-	printf("%s\n", zigzagConversion("PAYPALISHIRING", 3).c_str());
 
 	system("pause");
 

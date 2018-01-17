@@ -118,7 +118,9 @@
     <ClInclude Include="FindMedianSortedArrays.h" />
     <ClInclude Include="LengthOfLongestSubstring.h" />
     <ClInclude Include="LongestPalindrome.h" />
+    <ClInclude Include="Palindrome_Number.h" />
     <ClInclude Include="ReverseInteger.h" />
+    <ClInclude Include="String2Integer.h" />
     <ClInclude Include="TwoSum.h" />
     <ClInclude Include="Util\Util.h" />
     <ClInclude Include="ZigZagConversion.h" />

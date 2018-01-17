@@ -37,6 +37,12 @@
     <Filter Include="Q7_Reverse_Integer">
       <UniqueIdentifier>{c140e63e-0941-4bdc-91bd-490315f506dd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Q8_String_to_Integer">
+      <UniqueIdentifier>{788fa35e-13bb-4bda-b2b3-db5194b180e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q9_Palindrome_Number">
+      <UniqueIdentifier>{6dac911b-5185-4188-8584-51eee2538e81}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -70,6 +76,12 @@
     </ClInclude>
     <ClInclude Include="ReverseInteger.h">
       <Filter>Q7_Reverse_Integer</Filter>
+    </ClInclude>
+    <ClInclude Include="String2Integer.h">
+      <Filter>Q8_String_to_Integer</Filter>
+    </ClInclude>
+    <ClInclude Include="Palindrome_Number.h">
+      <Filter>Q9_Palindrome_Number</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
