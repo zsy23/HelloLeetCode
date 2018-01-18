@@ -55,6 +55,9 @@
     <Filter Include="Q13_Roman_to_Integer">
       <UniqueIdentifier>{cd5704c8-89fb-41dc-97f7-d7be0f81e9ea}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Q14_Longest_Common_Prefix">
+      <UniqueIdentifier>{d66ed504-706f-480b-bee8-99872716b64c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -106,6 +109,9 @@
     </ClInclude>
     <ClInclude Include="Roman2Integer.h">
       <Filter>Q13_Roman_to_Integer</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestCommonPrefix.h">
+      <Filter>Q14_Longest_Common_Prefix</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
