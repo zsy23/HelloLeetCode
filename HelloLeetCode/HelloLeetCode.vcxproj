@@ -115,12 +115,15 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AddTwoNumbers.h" />
+    <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="FindMedianSortedArrays.h" />
+    <ClInclude Include="Integer2Roman.h" />
     <ClInclude Include="LengthOfLongestSubstring.h" />
     <ClInclude Include="LongestPalindrome.h" />
     <ClInclude Include="PalindromeNumber.h" />
     <ClInclude Include="RegularExpressionMatching.h" />
     <ClInclude Include="ReverseInteger.h" />
+    <ClInclude Include="Roman2Integer.h" />
     <ClInclude Include="String2Integer.h" />
     <ClInclude Include="TwoSum.h" />
     <ClInclude Include="Util\Util.h" />

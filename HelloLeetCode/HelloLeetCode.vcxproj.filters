@@ -46,6 +46,15 @@
     <Filter Include="Q10_Regular_Expression_Matching">
       <UniqueIdentifier>{859a0103-6cc7-4560-bc00-4ac6ee72fbc6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Q11_Container_With_Most_Water">
+      <UniqueIdentifier>{5ae9ea57-47fb-49ac-a393-807cb23e398b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q12_Integer_to_Roman">
+      <UniqueIdentifier>{9196c5e4-3e56-49be-8792-0b715691b8a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q13_Roman_to_Integer">
+      <UniqueIdentifier>{cd5704c8-89fb-41dc-97f7-d7be0f81e9ea}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -88,6 +97,15 @@
     </ClInclude>
     <ClInclude Include="PalindromeNumber.h">
       <Filter>Q9_Palindrome_Number</Filter>
+    </ClInclude>
+    <ClInclude Include="ContainerWithMostWater.h">
+      <Filter>Q11_Container_With_Most_Water</Filter>
+    </ClInclude>
+    <ClInclude Include="Integer2Roman.h">
+      <Filter>Q12_Integer_to_Roman</Filter>
+    </ClInclude>
+    <ClInclude Include="Roman2Integer.h">
+      <Filter>Q13_Roman_to_Integer</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

@@ -1,11 +1,9 @@
 #include "Util/Util.h"
-#include "RegularExpressionMatching.h"
+#include "Roman2Integer.h"
 
 #include <iostream>
 
 int main(int argc, char *arg[]) {
-
-	printf("%d\n", isMatch("acaca", ".*cac*"));
 
 	system("pause");
 
