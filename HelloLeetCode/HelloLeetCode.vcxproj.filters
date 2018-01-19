@@ -58,6 +58,12 @@
     <Filter Include="Q14_Longest_Common_Prefix">
       <UniqueIdentifier>{d66ed504-706f-480b-bee8-99872716b64c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Q15_3Sum">
+      <UniqueIdentifier>{89bc5ebf-75b1-44b3-89ad-b7e94d9912ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q16_3Sum_Closest">
+      <UniqueIdentifier>{1545cfb2-e1ba-4691-8ec9-907555e4e23b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -112,6 +118,12 @@
     </ClInclude>
     <ClInclude Include="LongestCommonPrefix.h">
       <Filter>Q14_Longest_Common_Prefix</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreeSum.h">
+      <Filter>Q15_3Sum</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreeSumClosest.h">
+      <Filter>Q16_3Sum_Closest</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
