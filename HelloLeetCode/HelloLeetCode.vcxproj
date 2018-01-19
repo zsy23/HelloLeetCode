@@ -119,6 +119,7 @@
     <ClInclude Include="FindMedianSortedArrays.h" />
     <ClInclude Include="Integer2Roman.h" />
     <ClInclude Include="LengthOfLongestSubstring.h" />
+    <ClInclude Include="LetterCombinations.h" />
     <ClInclude Include="LongestCommonPrefix.h" />
     <ClInclude Include="LongestPalindrome.h" />
     <ClInclude Include="PalindromeNumber.h" />

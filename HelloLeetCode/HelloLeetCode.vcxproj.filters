@@ -64,6 +64,9 @@
     <Filter Include="Q16_3Sum_Closest">
       <UniqueIdentifier>{1545cfb2-e1ba-4691-8ec9-907555e4e23b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Q17_Letter_Combinations_of_a_Phone_Number">
+      <UniqueIdentifier>{7f25f94e-e3a1-4c62-8d8b-52e13cdf3087}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -124,6 +127,9 @@
     </ClInclude>
     <ClInclude Include="ThreeSumClosest.h">
       <Filter>Q16_3Sum_Closest</Filter>
+    </ClInclude>
+    <ClInclude Include="LetterCombinations.h">
+      <Filter>Q17_Letter_Combinations_of_a_Phone_Number</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
