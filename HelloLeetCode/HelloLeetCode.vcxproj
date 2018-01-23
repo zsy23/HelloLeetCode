@@ -118,13 +118,16 @@
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="FindMedianSortedArrays.h" />
     <ClInclude Include="FindNSum.h" />
+    <ClInclude Include="GenerateParentheses.h" />
     <ClInclude Include="Integer2Roman.h" />
     <ClInclude Include="LengthOfLongestSubstring.h" />
     <ClInclude Include="LetterCombinations.h" />
     <ClInclude Include="LongestCommonPrefix.h" />
     <ClInclude Include="LongestPalindrome.h" />
+    <ClInclude Include="MergeTwoSortedLists.h" />
     <ClInclude Include="PalindromeNumber.h" />
     <ClInclude Include="RegularExpressionMatching.h" />
+    <ClInclude Include="RemoveNthFromEnd.h" />
     <ClInclude Include="ReverseInteger.h" />
     <ClInclude Include="Roman2Integer.h" />
     <ClInclude Include="String2Integer.h" />
@@ -132,6 +135,7 @@
     <ClInclude Include="ThreeSumClosest.h" />
     <ClInclude Include="TwoSum.h" />
     <ClInclude Include="Util\Util.h" />
+    <ClInclude Include="ValidParentheses.h" />
     <ClInclude Include="ZigZagConversion.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

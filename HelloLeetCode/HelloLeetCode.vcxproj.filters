@@ -70,6 +70,18 @@
     <Filter Include="Q18_4Sum">
       <UniqueIdentifier>{a4f4eb8e-55b5-47f0-9cfd-ca90105aaab0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Q19_Remove_Nth_Node_From_End_of_List">
+      <UniqueIdentifier>{48f08aa5-05e1-455b-b76d-0c94da93eea9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q20_Valid_Parentheses">
+      <UniqueIdentifier>{c8c8a8c2-bcb7-431b-9452-d646b451fdd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q21_Merge_Two_Sorted_Lists">
+      <UniqueIdentifier>{15fa773c-5aca-49b1-bed9-dfc455b1243e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q22_Generate_Parentheses">
+      <UniqueIdentifier>{5a19b851-30e3-43c5-86aa-6cdd379d0833}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -136,6 +148,18 @@
     </ClInclude>
     <ClInclude Include="FindNSum.h">
       <Filter>Q18_4Sum</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveNthFromEnd.h">
+      <Filter>Q19_Remove_Nth_Node_From_End_of_List</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidParentheses.h">
+      <Filter>Q20_Valid_Parentheses</Filter>
+    </ClInclude>
+    <ClInclude Include="MergeTwoSortedLists.h">
+      <Filter>Q21_Merge_Two_Sorted_Lists</Filter>
+    </ClInclude>
+    <ClInclude Include="GenerateParentheses.h">
+      <Filter>Q22_Generate_Parentheses</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
