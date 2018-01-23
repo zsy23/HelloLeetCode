@@ -67,6 +67,9 @@
     <Filter Include="Q17_Letter_Combinations_of_a_Phone_Number">
       <UniqueIdentifier>{7f25f94e-e3a1-4c62-8d8b-52e13cdf3087}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Q18_4Sum">
+      <UniqueIdentifier>{a4f4eb8e-55b5-47f0-9cfd-ca90105aaab0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -130,6 +133,9 @@
     </ClInclude>
     <ClInclude Include="LetterCombinations.h">
       <Filter>Q17_Letter_Combinations_of_a_Phone_Number</Filter>
+    </ClInclude>
+    <ClInclude Include="FindNSum.h">
+      <Filter>Q18_4Sum</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

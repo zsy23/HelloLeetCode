@@ -117,6 +117,7 @@
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="FindMedianSortedArrays.h" />
+    <ClInclude Include="FindNSum.h" />
     <ClInclude Include="Integer2Roman.h" />
     <ClInclude Include="LengthOfLongestSubstring.h" />
     <ClInclude Include="LetterCombinations.h" />
